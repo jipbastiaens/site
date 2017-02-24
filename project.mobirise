@@ -803,8 +803,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/b-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/b-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/a-2000x1388-800x555.jpg",
+                "image": "@PROJECT_PATH@/assets/images/a-2000x1388.jpg",
                 "caption": "Type caption here",
                 "active": true
               },
