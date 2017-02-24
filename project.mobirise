@@ -44,7 +44,8 @@
           "_inherit": "header1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#475577"
+              "color": "#475577",
+              "font-size": "60px"
             },
             ".mbr-section-lead": {
               "color": "#747070"
@@ -71,8 +72,8 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "Jipp Bastiaens",
-          "text": "portfolio",
+          "title": "Jip Bastiaens",
+          "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BLINDTEKENINGEN</a>"
         },
         {
@@ -638,7 +639,7 @@
                 "overlay": false,
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "triptiek",
+                "title": "",
                 "showText": false,
                 "text": "Slide with image and solid color overlay.<br>Title, text and buttons are centered.",
                 "showButtons": false,
@@ -674,35 +675,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/cm-2000x1435-37.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "right",
-                "showTitle": false,
-                "title": "IMAGE SLIDER",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/cn-2000x1436-84.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "right",
-                "showTitle": false,
-                "title": "IMAGE SLIDER",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/co-2000x1441-88.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -743,22 +716,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/cr-2000x1413-73.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "right",
-                "showTitle": false,
-                "title": "IMAGE SLIDER",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/cs-2000x1439-21.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -785,7 +744,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/ch-2000x1420-0.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -842,7 +801,7 @@
               }
             ],
             "bgColor": "#fff",
-            "showBullets": true
+            "showBullets": false
           },
           "_anchor": "slider2-0"
         },
@@ -982,7 +941,7 @@
             }
           },
           "text1": "<strong>Adres</strong><br>België<br>Gent 9000<br>Alexianenplein 1<br><br>",
-          "text2": "<strong>Contacts</strong><br>\njip.bastiaens@g.com<br>0497788539<br><br><br>",
+          "text2": "<strong>Contacts</strong><br>\njip.bas@telenet.com<br>0497788539<br><br><br>",
           "text3": ""
         },
         {
