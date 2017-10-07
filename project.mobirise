@@ -2,7 +2,7 @@
   "settings": {
     "currentPage": "index.html",
     "versionFirst": "3.6.2",
-    "versionPublish": "3.12.1",
+    "versionPublish": "4.3.2",
     "name": "Jip Bastiaens",
     "theme": {
       "name": "mobirise3",
@@ -24,7 +24,7 @@
       }
     },
     "favicon": "",
-    "noImageResize": "",
+    "noImageResize": "true",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "uniqCompNum": 27
@@ -55,23 +55,23 @@
           "_name": "header5",
           "_anchor": "header5-0",
           "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-9955-2000x1233.jpg",
-            "bgColor": "#efefef",
+            "contentAlign": "left",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/3-3d.jpg",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "contentAlign": "left",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "title": "<span style=\"font-weight: normal; letter-spacing: -2px; line-height: 1.1;\"><br></span><br><span style=\"font-weight: normal; letter-spacing: -2px; line-height: 1.1;\"><br></span><span style=\"font-weight: normal; letter-spacing: -2px; line-height: 1.1;\"><br></span><span style=\"font-weight: normal; letter-spacing: -2px; line-height: 1.1;\"><br></span><span style=\"font-weight: normal; letter-spacing: -2px; line-height: 1.1;\">Jip Bastiaens</span><br>",
           "text": "",
@@ -81,97 +81,149 @@
           "_inherit": "gallery1",
           "_name": "gallery2",
           "_params": {
-            "paddingTop": 4,
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "2",
+            "paddingTop": "4",
             "paddingBottom": 4,
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": false,
+            "filter": false,
             "images": [
               {
                 "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/naakt-1-2000x1413-61-2000x1413-86.jpg",
-                "image": "@PROJECT_PATH@/assets/images/naakt-1-2000x1413-61.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/naakt-2-800x565.jpg",
+                "image": "@PROJECT_PATH@/assets/images/naakt-2.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": false,
+                "alt": ""
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/naakt-2-2000x1413-8-2000x1413-48.jpg",
-                "image": "@PROJECT_PATH@/assets/images/naakt-2-2000x1413-8.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/naakt-3-800x565.jpg",
+                "image": "@PROJECT_PATH@/assets/images/naakt-3.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": false,
+                "alt": ""
               },
               {
                 "tags": "Creative",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/naakt-3-2000x1413-19-2000x1413-90.jpg",
-                "image": "@PROJECT_PATH@/assets/images/naakt-3-2000x1413-19.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/naakt-4-800x565.jpg",
+                "image": "@PROJECT_PATH@/assets/images/naakt-4.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": false,
+                "alt": ""
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/naakt-4-2000x1413-5-2000x1413-74.jpg",
-                "image": "@PROJECT_PATH@/assets/images/naakt-4-2000x1413-5.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/naakt-5-800x565.jpg",
+                "image": "@PROJECT_PATH@/assets/images/naakt-5.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": false,
+                "alt": ""
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/naakt-5-2000x1413-35-2000x1413-49.jpg",
-                "image": "@PROJECT_PATH@/assets/images/naakt-5-2000x1413-35.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/naakt-6-800x565.jpg",
+                "image": "@PROJECT_PATH@/assets/images/naakt-6.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": false,
+                "alt": ""
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/naakt-6-2000x1413-3-2000x1413-50.jpg",
-                "image": "@PROJECT_PATH@/assets/images/naakt-6-2000x1413-3.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/naakt-9-800x565.jpg",
+                "image": "@PROJECT_PATH@/assets/images/naakt-9.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": false,
+                "alt": ""
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/naakt-7-2000x1413-62-2000x1413-27.jpg",
-                "image": "@PROJECT_PATH@/assets/images/naakt-7-2000x1413-62.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/naakt-7-800x565.jpg",
+                "image": "@PROJECT_PATH@/assets/images/naakt-7.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": false,
+                "alt": ""
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/naakt-8-2000x1413-49-2000x1413-38.jpg",
-                "image": "@PROJECT_PATH@/assets/images/naakt-8-2000x1413-49.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/naakt-8-800x565.jpg",
+                "image": "@PROJECT_PATH@/assets/images/naakt-8.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/beeldbanken-7-715x1000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/beeldbanken-7.jpg",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/beeldbanken-8-726x1000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/beeldbanken-8.jpg",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/beeldbanken-9-738x1000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/beeldbanken-9.jpg",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/beeld-3-a4-photoshop-2-716x1000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/beeld-3-a4-photoshop-2.jpg",
+                "caption": "Type caption here",
+                "active": true,
+                "alt": ""
               }
-            ],
-            "spacing": "1",
-            "showText": false,
-            "filter": false,
-            "bgColor": "fff",
-            "filterBgColor": false,
-            "fullWidth": false,
-            "showBullets": true
+            ]
           },
           "_anchor": "gallery2-1",
           "articleLayout": false
@@ -183,13 +235,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#323232",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "Copyright (c) 2016 Mobirise."
         },
@@ -200,97 +252,105 @@
           ],
           "_name": "gallery2",
           "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": 0,
             "paddingTop": 4,
             "paddingBottom": 4,
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": false,
+            "filter": false,
             "images": [
               {
                 "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/niets-2000x1450-800x580.jpg",
-                "image": "@PROJECT_PATH@/assets/images/niets-2000x1450.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/niets-800x580.jpg",
+                "image": "@PROJECT_PATH@/assets/images/niets.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": false,
+                "alt": ""
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/niets-4buizen-2000x1448-800x579.jpg",
-                "image": "@PROJECT_PATH@/assets/images/niets-4buizen-2000x1448.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/niets-4buizen-800x579.jpg",
+                "image": "@PROJECT_PATH@/assets/images/niets-4buizen.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": false,
+                "alt": ""
               },
               {
                 "tags": "Creative",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/niets-eenzaam-2000x1320-800x528.jpg",
-                "image": "@PROJECT_PATH@/assets/images/niets-eenzaam-2000x1320.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/niets-eenzaam-800x528.jpg",
+                "image": "@PROJECT_PATH@/assets/images/niets-eenzaam.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": false,
+                "alt": ""
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/niets-man-boom-2000x1501-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/niets-man-boom-2000x1501.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/niets-man-boom-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/niets-man-boom.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": false,
+                "alt": ""
               },
               {
                 "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/niets-poort-2000x1435-800x574.jpg",
-                "image": "@PROJECT_PATH@/assets/images/niets-poort-2000x1435.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/niets-poort-800x574.jpg",
+                "image": "@PROJECT_PATH@/assets/images/niets-poort.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": false,
+                "alt": ""
               },
               {
                 "tags": "Beautiful",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/niets-zuig-2000x1526-800x610.jpg",
-                "image": "@PROJECT_PATH@/assets/images/niets-zuig-2000x1526.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/niets-zuig-800x610.jpg",
+                "image": "@PROJECT_PATH@/assets/images/niets-zuig.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": false,
+                "alt": ""
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/niets-blauw-2000x1396-800x558.jpg",
-                "image": "@PROJECT_PATH@/assets/images/niets-blauw-2000x1396.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/niets-blauw-3-800x558.jpg",
+                "image": "@PROJECT_PATH@/assets/images/niets-blauw-3.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": false,
+                "alt": ""
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/niets-groen-2000x1247-800x498.jpg",
-                "image": "@PROJECT_PATH@/assets/images/niets-groen-2000x1247.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/niets-groen-3-800x499.jpg",
+                "image": "@PROJECT_PATH@/assets/images/niets-groen-3.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": true,
+                "alt": ""
               }
-            ],
-            "spacing": 0,
-            "showText": false,
-            "filter": false,
-            "bgColor": "fff",
-            "filterBgColor": false,
-            "fullWidth": true,
-            "showBullets": true
+            ]
           },
           "_anchor": "gallery2-m",
           "articleLayout": false,
@@ -303,27 +363,16 @@
           "_name": "slider3",
           "_params": {
             "autoplay": false,
+            "fullScreen": false,
             "paddingTop": "2",
             "paddingBottom": "2",
+            "showBullets": false,
+            "bgColor": "#fff",
             "timeout": "10",
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-2000x1032.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "left",
-                "showTitle": false,
-                "title": "IMAGE SLIDER",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/img-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-9908.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -337,7 +386,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/img-9960-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-9931.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -349,10 +398,7 @@
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
-            ],
-            "fullScreen": false,
-            "bgColor": "#fff",
-            "showBullets": false
+            ]
           },
           "_anchor": "slider3-q",
           "articleLayout": false
@@ -362,25 +408,24 @@
           "_anchor": "contacts1-0",
           "_params": {
             "paddingTop": "4",
-            "paddingBottom": "3",
+            "paddingBottom": "0",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/zelfportret2-128x184.jpg",
+              "src": "@PROJECT_PATH@/assets/images/naamloos-1.jpg",
               "width": 128,
               "active": true,
               "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
@@ -452,6 +497,12 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-0",
           "_params": {
+            "logo": false,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
             "bgColor": "#efefef",
             "fontSize": "0.95",
             "fontName": {
@@ -460,13 +511,7 @@
               "css": "'Montserrat', sans-serif"
             },
             "fontColor": "#383838",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": false,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -510,23 +555,23 @@
           "_name": "header5",
           "_anchor": "header5-c",
           "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
             "showArrow": true,
+            "contentAlign": "left",
+            "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mijn-familie-win-a4-2000x1413-1.jpg",
-            "bgColor": "#efefef",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "contentAlign": "left",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "title": "<span style=\"font-weight: normal;\">Jip Bastiaens</span>",
           "text": "",
@@ -536,8 +581,15 @@
           "_inherit": "gallery1",
           "_name": "gallery2",
           "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "1",
             "paddingTop": 4,
             "paddingBottom": 4,
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": false,
+            "filter": false,
             "images": [
               {
                 "tags": "Awesome",
@@ -619,14 +671,7 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ],
-            "spacing": "1",
-            "showText": false,
-            "filter": false,
-            "bgColor": "fff",
-            "filterBgColor": false,
-            "fullWidth": false,
-            "showBullets": true
+            ]
           },
           "_anchor": "gallery2-d",
           "articleLayout": false
@@ -638,13 +683,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#323232",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "Copyright (c) 2016 Mobirise."
         },
@@ -652,8 +697,11 @@
           "_name": "slider",
           "_params": {
             "autoplay": false,
+            "fullScreen": true,
             "paddingTop": "1",
             "paddingBottom": "1",
+            "showBullets": false,
+            "bgColor": "#fff",
             "timeout": 5,
             "slides": [
               {
@@ -840,10 +888,7 @@
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
-            ],
-            "fullScreen": true,
-            "bgColor": "#fff",
-            "showBullets": false
+            ]
           },
           "_anchor": "slider-f",
           "articleLayout": false
@@ -852,8 +897,15 @@
           "_inherit": "gallery1",
           "_name": "gallery3",
           "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": 1,
             "paddingTop": 1,
             "paddingBottom": 1,
+            "filterBgColor": true,
+            "bgColor": "#ffffff",
+            "showText": false,
+            "filter": false,
             "images": [
               {
                 "tags": "Awesome",
@@ -1055,14 +1107,7 @@
                 "caption": "Type caption here",
                 "active": false
               }
-            ],
-            "spacing": 1,
-            "showText": false,
-            "filter": false,
-            "bgColor": "#ffffff",
-            "filterBgColor": true,
-            "fullWidth": true,
-            "showBullets": true
+            ]
           },
           "_anchor": "gallery3-g",
           "articleLayout": false
@@ -1083,6 +1128,8 @@
           "_name": "slider2",
           "_params": {
             "autoplay": false,
+            "showBullets": false,
+            "bgColor": "#fff",
             "timeout": 5,
             "paddingTop": 4,
             "paddingBottom": 4,
@@ -1241,9 +1288,7 @@
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
-            ],
-            "bgColor": "#fff",
-            "showBullets": false
+            ]
           },
           "_anchor": "slider2-h"
         },
@@ -1251,8 +1296,15 @@
           "_inherit": "gallery1",
           "_name": "gallery3",
           "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": 1,
             "paddingTop": 1,
             "paddingBottom": 1,
+            "filterBgColor": true,
+            "bgColor": "#ffffff",
+            "showText": false,
+            "filter": false,
             "images": [
               {
                 "tags": "Awesome",
@@ -1334,14 +1386,7 @@
                 "caption": "Type caption here",
                 "active": false
               }
-            ],
-            "spacing": 1,
-            "showText": false,
-            "filter": false,
-            "bgColor": "#ffffff",
-            "filterBgColor": true,
-            "fullWidth": true,
-            "showBullets": true
+            ]
           },
           "_anchor": "gallery3-i",
           "articleLayout": false
@@ -1351,19 +1396,19 @@
           "_anchor": "contacts1-j",
           "_params": {
             "paddingTop": "4",
-            "paddingBottom": "3",
+            "paddingBottom": "0",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/beeldbanken-6-128x175-38.jpg",
+              "src": "@PROJECT_PATH@/assets/images/naamloos-1.jpg",
               "width": 128,
               "active": true,
               "link": "",
@@ -1441,6 +1486,12 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-k",
           "_params": {
+            "logo": false,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
             "bgColor": "#efefef",
             "fontSize": "0.95",
             "fontName": {
@@ -1449,13 +1500,7 @@
               "css": "'Montserrat', sans-serif"
             },
             "fontColor": "#383838",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": false,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
