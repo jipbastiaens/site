@@ -73,7 +73,7 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
-          "title": "<span style=\"font-weight: normal; letter-spacing: -2px; line-height: 1.1;\"><br></span><br><span style=\"font-weight: normal; letter-spacing: -2px; line-height: 1.1;\"><br></span><span style=\"font-weight: normal; letter-spacing: -2px; line-height: 1.1;\"><br></span><span style=\"font-weight: normal; letter-spacing: -2px; line-height: 1.1;\"><br></span><span style=\"font-weight: normal; letter-spacing: -2px; line-height: 1.1;\">Jip Bastiaens</span><br>",
+          "title": "<span style=\"font-weight: normal; letter-spacing: -2px; line-height: 1.1;\"><br></span><br><span style=\"font-weight: normal; letter-spacing: -2px; line-height: 1.1;\"><br></span><span style=\"font-weight: normal; letter-spacing: -2px; line-height: 1.1;\"><br></span><span style=\"font-weight: normal; letter-spacing: -2px; line-height: 1.1;\"><br></span><span style=\"letter-spacing: -2px; line-height: 1.1; font-weight: normal;\">Jip Bastiaens</span><br>",
           "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BLINDTEKENINGEN</a>"
         },
