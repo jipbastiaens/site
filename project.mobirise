@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Jip 3de",
-    "currentPage": "model.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -35,7 +35,9 @@
     "uniqCompNum": 35,
     "versionPublish": "4.3.2",
     "favicon": "",
-    "noImageResize": "true"
+    "noImageResize": "true",
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-109359978-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-109359978-1');\r\n</script>"
   },
   "pages": {
     "index.html": {
