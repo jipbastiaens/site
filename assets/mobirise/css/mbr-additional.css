@@ -4511,17 +4511,18 @@ body {
 .cid-qAebRk1qsu {
   padding-top: 120px;
   padding-bottom: 120px;
-  background-color: #2e2e2e;
+  background-color: #ffffff;
 }
 .cid-qAebRk1qsu .line {
-  background-color: #ffffff;
-  color: #ffffff;
+  background-color: #232323;
+  color: #232323;
   align: center;
   height: 2px;
   margin: 0 auto;
 }
 .cid-qAebRk1qsu .section-text {
   padding: 2rem 0;
+  color: #232323;
 }
 .cid-qAebRk1qsu .inner-container {
   margin: 0 auto;
